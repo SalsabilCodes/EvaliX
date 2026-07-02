@@ -1,0 +1,10 @@
+id,input,target,context,task_type,metadata
+70f2aab0-1e19-480f-9a90-2c787aa04b89,What is the capital of France?,The capital of France is Paris.,,qa,"{""difficulty"": ""medium"", ""tags"": [""general_knowledge"", ""factual""]}"
+dd50b80d-925d-494b-9920-c72f373c8e34,Who wrote the play 'Hamlet'?,William Shakespeare wrote 'Hamlet'.,,qa,"{""difficulty"": ""easy"", ""tags"": [""general_knowledge"", ""factual""]}"
+30da6a58-b90c-4846-8e89-b58bded5a6c8,What is the chemical symbol for water?,The chemical symbol for water is H2O.,,qa,"{""difficulty"": ""medium"", ""tags"": [""general_knowledge"", ""factual""]}"
+2a9c67f2-bc37-4258-b43f-d513c087b4d0,In what year did the Apollo 11 moon landing occur?,The Apollo 11 moon landing occurred in 1969.,,qa,"{""difficulty"": ""medium"", ""tags"": [""general_knowledge"", ""factual""]}"
+5210eca6-8cdf-46c3-ac1b-d71c836c4670,What is the largest planet in our solar system?,Jupiter is the largest planet in our solar system.,,qa,"{""difficulty"": ""easy"", ""tags"": [""general_knowledge"", ""factual""]}"
+6e18daad-61af-4fa4-a161-399766511237,Who painted the Mona Lisa?,Leonardo da Vinci painted the Mona Lisa.,,qa,"{""difficulty"": ""medium"", ""tags"": [""general_knowledge"", ""factual""]}"
+a8fa8d76-14fc-4282-b1f4-a1524b6ceeca,What is the speed of light in a vacuum?,"The speed of light is approximately 299,792 kilometers per second.",,qa,"{""difficulty"": ""easy"", ""tags"": [""general_knowledge"", ""factual""]}"
+f81e5864-acbd-4af3-a07a-e3b9ba8ca7d9,Which element has the atomic number 1?,Hydrogen has the atomic number 1.,,qa,"{""difficulty"": ""medium"", ""tags"": [""general_knowledge"", ""factual""]}"
+ec982212-b56f-4b32-8209-03fcc7524793,What is the longest river in the world?,The Nile River is traditionally considered the longest river in the world.,,qa,"{""difficulty"": ""medium"", ""tags"": [""general_knowledge"", ""factual""]}"
